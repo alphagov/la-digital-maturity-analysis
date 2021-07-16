@@ -1,5 +1,4 @@
-# la-didigital-maturiry-analysis
-Digital Maturity Analysis of Local Authorities in England
+Local Authority Digital Maturity Analysis
 
 We carried out an analysis of 304 local authorities in England looking at their levels of digital maturity using the principles of the local digital declaration as a benchmark.
 
